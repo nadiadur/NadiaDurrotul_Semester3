@@ -5,7 +5,7 @@ $koneksi = mysqli_connect("localhost","root","","db_sekolah");
 
 // cek koneksi
 //if(mysqli_connect_errno()){
-    echo "Gagal koneksi ke database";
+ //   echo "Gagal koneksi ke database";
 //} else {
  //   echo "berhasil koneksi";
     
